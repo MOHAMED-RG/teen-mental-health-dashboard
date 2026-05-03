@@ -1,8 +1,7 @@
 # Teen Mental Health Dashboard
 
 ## Project Overview
-This project analyzes the relationship between sleep, stress, anxiety, and social media usage among teenagers using Excel.
-
+This project explores how sleep affects stress, anxiety, and addiction levels among teenagers using Excel dashboards and correlation analysis.
 ##  Tools Used
 - Microsoft Excel
 - Pivot Tables
