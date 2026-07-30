@@ -9,8 +9,8 @@ This project explores how sleep affects stress, anxiety, and addiction levels am
 ##  Tools Used 
 - Microsoft Excel
 - Pivot Tables
-- Data Visualization
-- Correlation Analysis
+- Data Visualization     
+- Correlation Analysis  
 
 
 
