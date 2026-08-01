@@ -4,7 +4,7 @@
 This project explores how sleep affects stress, anxiety, and addiction levels among teenagers using Excel dashboards and correlation analysis.
 
 ## Dataset
-[Social Media Impact on Teen Mental Health](https://www.kaggle.com/datasets/algozee/teenager-menthal-healy/data)    
+[Social Media Impact on Teen Mental Health](https://www.kaggle.com/datasets/algozee/teenager-menthal-healy/data)        
 
 ##  Tools Used 
 - Microsoft Excel
