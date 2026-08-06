@@ -17,7 +17,7 @@ This project explores how sleep affects stress, anxiety, and addiction levels am
 ##  Key Insights
 - Poor sleep is associated with higher stress, anxiety, and addiction.  
 - This trend appears across both genders.  
-- Sleep shows the strongest (though moderate) relationship with stress (-0.31).
+- Sleep shows the strongest (though moderate) relationship with stress (-0.31).   
 
 ##  Dashboard Preview
 ![Dashboard](dashboard.png)    
