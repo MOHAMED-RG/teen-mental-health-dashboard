@@ -1,4 +1,4 @@
-# Teen Mental Health Dashboard           
+# Teen Mental Health Dashboard    
 
 ## Project Overview
 This project explores how sleep affects stress, anxiety, and addiction levels among teenagers using Excel dashboards and correlation analysis.      
