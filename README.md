@@ -95,3 +95,24 @@ teen-mental-health-dashboard/
 ├── README.md
 ├── Teen_Mental_Health_Dataset.xlsx
 └── dashboard.png
+
+## 💡 Business & Analytical Value
+
+This project demonstrates how Excel can be used to:
+
+- Clean and organize data for analysis
+- Summarize data using Pivot Tables
+- Identify relationships between variables
+- Calculate and interpret correlations
+- Build interactive dashboards
+- Communicate analytical findings through visualizations
+
+## 📌 Conclusion
+
+The analysis highlights a negative association between reported sleep and
+stress levels in the dataset, while also showing differences in anxiety and
+addiction indicators across sleep categories.
+
+The interactive Excel dashboard provides a practical way to explore these
+patterns and demonstrates the use of Excel for data analysis, visualization,
+and insight communication.
