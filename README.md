@@ -96,6 +96,7 @@ teen-mental-health-dashboard/
 ├── Teen_Mental_Health_Dataset.xlsx
 └── dashboard.png
 
+```markdown
 ## 💡 Business & Analytical Value
 
 This project demonstrates how Excel can be used to:
